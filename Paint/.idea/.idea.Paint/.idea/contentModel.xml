@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Droid" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Paint.Droid.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="layout" t="Include">
+            <e p="Main.axml" t="Include" />
+          </e>
+          <e p="mipmap-hdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-mdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-xhdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-xxhdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="mipmap-xxxhdpi" t="Include">
+            <e p="Icon.png" t="Include" />
+          </e>
+          <e p="Resource.designer.cs" t="Include" />
+          <e p="values" t="Include">
+            <e p="Strings.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+          </e>
+          <e p="Contents.json" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="CGPointExtesions.cs" t="Include" />
+          <e p="UIColorExtensions.cs" t="Include" />
+        </e>
+        <e p="Info.plist" t="Include" />
+        <e p="IPaintViewDelegate.cs" t="Include" />
+        <e p="Keeper" t="Include">
+          <e p="DrawKeeperFactory.cs" t="Include" />
+          <e p="InternalKeeper.cs" t="Include" />
+        </e>
+        <e p="LaunchScreen.storyboard" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="Main.storyboard" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Paint.iOS.csproj" t="IncludeRecursive" />
+        <e p="PaintView.cs" t="Include" />
+        <e p="PaintView.designer.cs" t="Include" />
+        <e p="Resources" t="Include" />
+        <e p="ViewController.cs" t="Include" />
+        <e p="ViewController.designer.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Paint" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Draw" t="Include">
+          <e p="Color.cs" t="Include" />
+          <e p="DrawModel.cs" t="Include" />
+          <e p="Path.cs" t="Include" />
+          <e p="Point.cs" t="Include" />
+        </e>
+        <e p="Keeper" t="Include">
+          <e p="EDrawKeeperType.cs" t="Include" />
+          <e p="IDrawKeeper.cs" t="Include" />
+          <e p="IDrawKeeperFactory.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Paint.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Paint.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Paint.263967611.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--For all properties see: https://aka.ms/android-menu-resource-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:title ="Save">
+    <menu>
+      <item
+        android:id ="@+id/SaveToFile"
+        android:title = "Save to File"/>
+
+      <item
+        android:id ="@+id/SaveToRealm"
+        android:title = "Save to Realm"/>
+
+      <item
+        android:id ="@+id/SaveToSQLite"
+        android:title = "Save to SQLite"/>
+
+      <item
+        android:id ="@+id/SaveToSharedPreferance"
+        android:title = "Save to Shared Preferance"/>
+    </menu>
+  </item>
+  <item
+    android:id ="@+id/Load"
+    android:title ="Load">
+    <menu>
+      <item
+        android:id ="@+id/ClickLoadToFile"
+        android:title = "Load for File"/>
+
+      <item
+        android:id ="@+id/ClickLoadToRealm"
+        android:title = "Load for Realm"/>
+
+      <item
+        android:id ="@+id/ClickLoadToSQLite"
+        android:title = "Load for SQLite"/>
+
+      <item
+        android:id ="@+id/ClickLoadToSharedPreferance"
+        android:title = "Load for Shared Preferance"/>
+    </menu>
+  </item>
+</menu>
+
+<!-- Code to implement into Activity:
+
+Android.Widget.SearchView searchView;
+public override bool OnCreateOptionsMenu(IMenu menu)
+{
+  this.MenuInflater.Inflate(Resource.Menu.ToolbarMenu, menu);
+
+  var searchItem = menu.FindItem(Resource.Id.action_search);
+
+  searchView = searchItem.ActionProvider.JavaCast<Android.Widget.SearchView>();
+
+  searchView.QueryTextSubmit += (sender, args) =>
+  {
+    Toast.MakeText(this, "You searched: " + args.Query, ToastLength.Short).Show();
+
+  };
+
+
+  return base.OnCreateOptionsMenu(menu);
+}
+
+-->

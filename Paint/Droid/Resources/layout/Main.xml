@@ -1,0 +1,122 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <android.support.v7.widget.Toolbar
+        android:id ="@+id/menuForSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight = "?android:attr/actionBarSize"
+        android:background = "?android:attr/colorPrimary"
+        android:elevation = "4dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:id="@+id/viewDraw">
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ThinButton"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:backgroundTint="#FFF"
+                android:text="Thin"
+                android:textAllCaps="false"
+                android:textColor="#008B8B"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/MedimButton"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Medium"
+                android:backgroundTint="#FFF"
+                android:textAllCaps="false"
+                android:textColor="#008B8B"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:id="@+id/ThickButton"
+                android:text="Thick"  
+                android:backgroundTint="#FFF"
+                android:textAllCaps="false"
+                android:textColor="#008B8B"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/UndoButton"
+                android:layout_gravity="center"
+                android:src="@android:drawable/ic_menu_revert"
+                android:tint="#00FF00"
+                android:background="#FFF"/>
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/ClearButton"
+                android:layout_gravity="center"
+                android:src="@android:drawable/ic_delete"
+                 android:background="#FFF"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/RedColorButton"
+                android:layout_gravity="center"
+                android:background="#FF0000"
+                android:layout_margin="5dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/YellowColorButton"
+                android:layout_gravity="center"
+                android:background="#FFFF00"
+                android:layout_margin="5dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:id="@+id/GreenColorButton"
+                android:background="#00FF00"
+                android:layout_margin="5dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62fbb9bc-1705-4594-b2a7-5254e02e4df2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Paint/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/Extensions/CGPointExtesions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/Extensions/UIColorExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint/Draw/Point.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/Keeper/InternalKeeper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint/Draw/Path.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint/Draw/DrawModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint/Draw/Color.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/Keeper/DrawKeeperFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint/Keeper/EDrawKeeperType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint/Keeper/IDrawKeeperFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/IPaintViewDelegate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/PaintView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/PaintView.designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Paint/Keeper/IDrawKeeper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/iOS/UIColorExtensions.cs" />
+        <option value="$PROJECT_DIR$/iOS/Extensions/UIColorExtensions.cs" />
+        <option value="$PROJECT_DIR$/iOS/Extensions/CGPointExtesions.cs" />
+        <option value="$PROJECT_DIR$/iOS/IPaintViewDelegate.cs" />
+        <option value="$PROJECT_DIR$/iOS/PaintView.cs" />
+        <option value="$PROJECT_DIR$/Paint/Draw/DrawModel.cs" />
+        <option value="$PROJECT_DIR$/Paint/Keeper/IDrawKeeper.cs" />
+        <option value="$PROJECT_DIR$/Paint/Keeper/IDrawKeperFactory.cs" />
+        <option value="$PROJECT_DIR$/Paint/Keeper/EDrawKeeperType.cs" />
+        <option value="$PROJECT_DIR$/iOS/Resources/DrawKeeperFactory.cs" />
+        <option value="$PROJECT_DIR$/Paint/Keeper/IDrawKeeperFactory.cs" />
+        <option value="$PROJECT_DIR$/iOS/Keeper/DrawKeeperFactory.cs" />
+        <option value="$PROJECT_DIR$/iOS/ViewController.cs" />
+        <option value="$PROJECT_DIR$/Paint/Draw/Color.cs" />
+        <option value="$PROJECT_DIR$/Paint/Draw/Path.cs" />
+        <option value="$PROJECT_DIR$/Paint/Draw/Point.cs" />
+        <option value="$PROJECT_DIR$/iOS/Keeper/InternalKeeper.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WAveBgsdgDikhXdWUq7EWyiJUH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Device#class com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSSimulatorKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="iPhone 11" />
+    <property name="DeviceKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="Simulator" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/iOS/Paint.iOS.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62fbb9bc-1705-4594-b2a7-5254e02e4df2" name="Default Changelist" comment="" />
+      <created>1578605307098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578605307098</updated>
+      <workItem from="1578605309435" duration="8311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="239" key="RiderGenerateDialog" timestamp="1578644114642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="649" y="232" key="RiderGenerateDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578610522616" />
+    <state x="742" y="239" key="RiderGenerateDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578644114642" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Paint/Draw/DrawModel.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/Paint/Draw/DrawModel.cs" initialLine="15">
+            <startOffsets>
+              <option value="338" />
+            </startOffsets>
+            <endOffsets>
+              <option value="352" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
